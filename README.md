@@ -29,4 +29,8 @@ Intermediate files go to `data_preprocessed/`, `data_epoched/` and `figures/`, w
 
 ## Data
 
-The EEG data is not redistributed in this repository. Add the source and licence of your dataset here.
+Subject **S014** from the *EEG Motor Movement/Imagery Dataset* (64-channel EEG, 109 participants, recorded with the BCI2000 system; imagined left- vs. right-hand movement). The data is **not** included in this repository.
+
+- Source: [NEMAR on004362](https://nemar.org/dataset/on004362) (OpenNeuro ds004362)
+- Licence: CC0 (public domain)
+- Citation: Schalk, G., McFarland, D. J., Hinterberger, T., Birbaumer, N., & Wolpaw, J. R. (2026). *EEG Motor Movement/Imagery Dataset* (v1.0.0) [Data set]. NEMAR. https://doi.org/10.82901/nemar.on004362

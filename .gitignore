@@ -1,0 +1,10 @@
+# data & third-party toolboxes (download separately, see README)
+eeglab*/
+BCILAB-devel/
+data_preprocessed/
+data_epoched/
+figures/
+*.set
+*.fdt
+*.edf
+.DS_Store
